@@ -1,0 +1,2 @@
+satellite,mode,band_configuration,total_pixels,lamun_pixels,lamun_percentage,non_lamun_pixels,features_used,mean_confidence_lamun,std_confidence_lamun,high_confidence_pixels,total_area_m2,total_area_ha,total_area_km2
+LANDSAT,BAND_FISIK,Band 1-7 (7 Physical Bands),722,270,37.396121883656505,452,7,0.3740997229916897,0.30489229771151427,81,0.0,0.0,0.0

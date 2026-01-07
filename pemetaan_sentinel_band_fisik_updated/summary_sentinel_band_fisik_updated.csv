@@ -1,0 +1,2 @@
+satellite,mode,band_configuration,total_pixels,lamun_pixels,lamun_percentage,non_lamun_pixels,features_used,mean_confidence_lamun,std_confidence_lamun,high_confidence_pixels,total_area_m2,total_area_ha,total_area_km2
+SENTINEL,BAND_FISIK,Band 1-12 (12 Physical Bands),6272,2845,45.360331632653065,3427,12,0.4069802295918367,0.3790685433273771,1517,0.0,0.0,0.0

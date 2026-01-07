@@ -1,0 +1,22 @@
+Nomor_Band,Format_Kolom,Keterangan,Tipe_Data
+1,B1(Coastal Aerosol (B1)),Coastal Aerosol (B1),float32
+2,B2(Blue (B2)),Blue (B2),float32
+3,B3(Green (B3)),Green (B3),float32
+4,B4(Red (B4)),Red (B4),float32
+5,B5(RE1 (B5)),RE1 (B5),float32
+6,B6(RE2 (B6)),RE2 (B6),float32
+7,B7(RE3 (B7)),RE3 (B7),float32
+8,B8(NIR (B8)),NIR (B8),float32
+9,B9(RE4 (B8A)),RE4 (B8A),float32
+10,B10(Water Vapor (B9)),Water Vapor (B9),float32
+11,B11(SWIR1 (B11)),SWIR1 (B11),float32
+12,B12(SWIR2 (B12)),SWIR2 (B12),float32
+13,B13(NDVI),NDVI,float32
+14,B14(MNDWI),MNDWI,float32
+15,B15(NDWI),NDWI,float32
+16,B16(EVI),EVI,float32
+17,B17(SABI),SABI,float32
+18,B18(GNDVI),GNDVI,float32
+19,B19(NDAVI),NDAVI,float32
+20,B20(AWEI),AWEI,float32
+21,B21(BATHYMETRY),BATHYMETRY,float32

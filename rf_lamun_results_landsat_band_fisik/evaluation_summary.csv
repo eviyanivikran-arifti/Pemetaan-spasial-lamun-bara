@@ -1,0 +1,3 @@
+Dataset,Accuracy,Kappa,Mode
+Training,1.0,1.0,BAND FISIK SAJA
+Testing,0.875,0.75,BAND FISIK SAJA

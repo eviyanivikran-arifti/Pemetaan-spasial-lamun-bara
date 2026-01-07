@@ -1,0 +1,3 @@
+Dataset,Accuracy,Kappa,Mode
+Training,1.0,1.0,SEMUA BAND
+Testing,0.8125,0.625,SEMUA BAND

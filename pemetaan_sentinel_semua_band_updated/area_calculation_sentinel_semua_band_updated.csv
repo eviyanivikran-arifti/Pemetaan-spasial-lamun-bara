@@ -1,0 +1,2 @@
+Satellite,Mode,Resolution_m,Pixel_Area_m2,Total_Pixels,Lamun_Pixels,Lamun_Percentage,Total_Area_m2,Total_Area_Ha,Total_Area_km2,Features_Used
+SENTINEL,SEMUA_BAND,10.0,100.0,6272,2365,37.70727040816326,236500.0,23.650000000000002,0.2365,21

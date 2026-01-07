@@ -1,0 +1,2 @@
+Satellite,Mode,Resolution_m,Pixel_Area_m2,Total_Pixels,Lamun_Pixels,Lamun_Percentage,Total_Area_m2,Total_Area_Ha,Total_Area_km2,Features_Used
+LANDSAT,BAND_FISIK,30.0,900.0,722,270,37.396121883656505,243000.0,24.3,0.243,7
